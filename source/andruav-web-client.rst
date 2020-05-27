@@ -8,8 +8,17 @@ Andruav Web Client
 Andruav-Web-Client is web page where you can track and control your drone from it.
 
 
+Andruav Web-Client URL: `https://andruav.com:8000/andruavweb.html <https://andruav.com:8000/andruavweb.html>`_
+
+
+
+.. youtube:: https://www.youtube.com/watch?v=To3sngcdvh4&t=7s
+
+|
+
 Main Features
 =============
+
 #. Ability to control multiple drones at the same time.
 
 #. Ability to stream videos from multiple drones simultaneously.

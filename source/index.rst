@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Andruav Wiki's documentation!
+Welcome to Andruav Project Website
 ========================================
 
 .. toctree::
@@ -13,9 +13,12 @@ Welcome to Andruav Wiki's documentation!
    
    What is Andruav </what-is-andruav>
    Getting Started </andruav-getting-started>
-   Andruav WebClient </andruav-web-client>
-   Andruav WebPlugin </andruav-web-plugin>
-   Using Andruav SITL </andruav-simulators>
+   Andruav FPV </andruav-fpv>
+   Andruav Web Client </andruav-web-client>
+   Andruav Telemetry </andruav-telemetry>
+   Andruav Advanced Features </andruav-advanced>
+   Using Andruav with SITL </andruav-simulators>
+   
    FAQ </andruav-faq> 
    Glossary </andruav-glossary> 
 

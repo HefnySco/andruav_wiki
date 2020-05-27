@@ -22,10 +22,10 @@ In SITL simulator make sure that it sends UDP packets to mobile IP address on th
 .. image:: ./images/s_fcb1.jpg
    :height: 400px
    :align: center
-   :alt: FCB Screen
+   :alt: FCB Screen for Drone Mobile
 
-
-.. code-block: bash
+ 
+.. code-block:: bash
     
     $ ~/ardupilot/Tools/autotest/sim_vehicle.py -j4 -v ArduCopter -M  --out=udpout:127.0.0.1:14550 --out=udpout:192.168.1.100:10100
 

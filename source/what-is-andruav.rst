@@ -11,7 +11,7 @@ Andruav is an interconnected Android-based system that uses Android mobiles as c
 
 Andruav saves you lots of gears and connections and replace it with a single Android mobile phone.
  
-Only two mobile devices and Andruav are what you need to get Imaging & FPV Gears and Unlimited Telemetry Range over Wifi & 3G/4G.
+Only two mobile devices and Andruav are what you need to get Imaging & FPV Gears and :ref:`Unlimited Telemetry Range <andruav-telemetry>` over Wifi & 3G/4G.
 
 
 

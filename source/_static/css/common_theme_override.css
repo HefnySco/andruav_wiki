@@ -42,3 +42,20 @@ table.partners-table td {
 }
 
 
+
+.wy-side-nav-search 
+{
+   background-color: #2f2829 !important;
+}
+
+
+h1
+{
+    color: #337ab7 !important;
+}
+
+.static_menu_item
+{
+    color: #def367 !important;
+    font-size: larger !important;   
+}

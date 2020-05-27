@@ -5,7 +5,7 @@
 Andruav Getting Started
 =======================
 
-First you need to have at least an Android mobile that will be mounted on drone. A second mobile can be used as a ground station or you can use :ref:`andruav_web_client` which is recommended for better monitoring and control.
+First you need to have at least an Android mobile that will be mounted on drone. A second mobile can be used as a ground station or you can use :ref:`andruav-web-client` which is recommended for better monitoring and control.
 
 You also need to create an account. The account will be used to link vehicles and GCS either on mobile or on web.
 

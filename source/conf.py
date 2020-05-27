@@ -21,7 +21,7 @@ master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
-project = u'Andruav Wiki'
+project = u'Andruav Project'
 copyright = u'2020, Andruav.com'
 author = u'Mohammad Said Hefny'
 
@@ -49,6 +49,8 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+[extensions]
+todo_include_todos=True
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -56,6 +58,17 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
+
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+html_theme_options = {
+    #show [+] in side menu
+    "collapse_navigation" : False
+}
+
+# If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
+html_show_sphinx = False
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -98,3 +111,5 @@ html_logo = './images/andruav.png'
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
 html_favicon = './images/andruav.ico'
+
+
