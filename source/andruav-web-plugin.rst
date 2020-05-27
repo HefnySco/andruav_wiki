@@ -1,0 +1,23 @@
+.. _andruav-web-plugin:
+
+==================
+Andruav Web Plugin
+==================
+
+
+Andruav integrates with `Ardupilot-based flight control boards <https://ardupilot.org/copter/docs/common-autopilots.html>`_. Andruav can connect to these boards via bluetooth, USB, TCP and UDP connections. 
+
+The below video might be a record-breaking telemetry range for RC. In the following video you can see a car is being control in Cairo Egypt.driver is in Los-Angeles USA. **Andruav 12,193 km RC Car Demo**.
+
+The first Video captured in USA
+
+.. youtube:: https://www.youtube.com/watch?v=DmpX-D10GyQ
+
+
+While the second is captured in Egypt
+
+.. youtube:: https://www.youtube.com/watch?v=Kh4NU3FaFeE
+
+
+Both are the same exact video filmed from two places.
+ 
