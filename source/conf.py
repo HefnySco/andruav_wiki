@@ -113,3 +113,8 @@ html_logo = './images/andruav.png'
 html_favicon = './images/andruav.ico'
 
 
+html_additional_pages = {
+    'eula': 'eula.html',
+    'eula_team': 'eula_team.html',
+    'andruavweb': 'andruavweb.html',
+}
