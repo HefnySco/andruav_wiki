@@ -66,6 +66,7 @@ Steps Description
 
 
 
+
 .. important::
 
     :ref:`andruav-gcs-telemetry` uses TCP connection, while Andruav Web Plugin uses UDP connection. You need to be careful when you select the connection in your GCS App such as `Mission Planner <https://ardupilot.org/planner/>`_ and `QGroundControl <http://qgroundcontrol.com/>`_.

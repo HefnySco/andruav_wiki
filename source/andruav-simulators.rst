@@ -1,4 +1,4 @@
-.. _andruav-simulators::
+.. _andruav-simulators:
 
 
 =============================

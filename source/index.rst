@@ -9,7 +9,7 @@ Welcome to Andruav Project Website
 .. toctree::
    :caption: Contents:
    :titlesonly:
-   :maxdepth: 2
+   :maxdepth: 1
    
    What is Andruav </what-is-andruav>
    Getting Started </andruav-getting-started>

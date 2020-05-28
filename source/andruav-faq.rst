@@ -1,4 +1,4 @@
-.. _andruav-faq::
+.. _andruav-faq:
 
 
 

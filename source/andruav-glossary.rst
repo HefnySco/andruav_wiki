@@ -1,4 +1,4 @@
-.. _andruav-glossary::
+.. _andruav-glossary:
 
 
 ================

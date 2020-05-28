@@ -13,4 +13,6 @@ Andruav Advanced
    Andruav TX Blocking </andruav-tx-block>
    Andruav TX Freeze </andruav-tx-freeze>
    Andruav GEO-Fencing </andruav-geo-fencing>
+   Andruav GamePad Navigation </andruav-gamepad>
+   Andruav GPS Injection </andruav-gps-injection>
    
