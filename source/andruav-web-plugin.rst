@@ -42,7 +42,7 @@ Steps Description
 
 |
 
-3. Run andruavplugin from command prompt. You dont need to change any ports. For more options you can run:
+3. Run **andruavplugin** from command prompt. You don't need to change any ports. For more options you can run:
 
 .. code-block:: bash
 
@@ -52,9 +52,9 @@ Steps Description
     
  
 
-4. Open AndruavWeb and press Tele-Off it should turn into green and be Tele-On
+4. Open AndruavWeb and press **Tele-Off** it should turn into red and be Tele-On
 
-.. image:: ./images/nowPressTeleOn.png
+.. image:: ./images/web_telemetry_on.png
     :align: center
     :alt: Web Telemetry
 

@@ -45,3 +45,38 @@ Andruav FPV Capabilities
 #. A map is generated with captured image on it. It is stored in Andruav Drone mobile app. There is a folder in te mobile called AndruavKML these folders contains sub-folders for each and every flight.
     
 
+|
+
+Andruav FPV on WebClient
+========================
+
+Video streaming is initiated by pressing video icon on drone card. Andruav Webclient will switch to camera screen. 
+Camera screen displays each drone camera in a *"tab"* where you can switch between these tabs. 
+
+
+.. image:: ./images/fpv_web.png
+   :align: center
+   :alt: FPV Screen
+
+
+.. warning::
+    if the current screen on Andruav Drone Mobile is not FPV screen, then you need to press the video button twice before video streaming starts. 
+    Do not press them very quickly to allow time for FPV screen to start before the second click.
+
+
+Each vehicle camera has a menu appears on top of the video as in the below image:
+
+.. image:: ./images/fpv_menu.png
+   :align: center
+   :alt: FPV Video Menu
+
+The menu contains many features:
+
+#. Switch between front and rear camera.
+#. Record incomming stream from web browser directly.
+#. Zoom in-out.
+#. Flash On/Off for rear-camera only.
+#. Display a floating pic-in-pic video.
+#. Display a full-screen video.
+#. Take *local* snapshot of the video and save it as an image.
+
