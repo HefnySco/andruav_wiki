@@ -22,6 +22,8 @@ Welcome to Andruav Project Website
    FAQ </andruav-faq> 
    Glossary </andruav-glossary> 
 
+   Contribute </contribute>
+
 
 .. _home:
 
