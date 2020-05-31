@@ -38,9 +38,20 @@ Features
 
 3. You can change flight modes from GamePad buttons by long pressing "red - yellow - blue - green" buttons.
 
++------------+------------+-----------+
+| VEHICLE    | COLOR      | MODE      |
++------------+------------+-----------+
+| Copter     | blue       | Guided    |
++------------+------------+-----------+
+| Copter     | green      | Land      |
++------------+------------+-----------+
+| Copter     | red        | Break     |
++------------+------------+-----------+
+| Copter     | yellow     | RTL       |
++------------+------------+-----------+
 
 .. image:: ./images/rx_web_onscreen.png
-   :width: 35 %
+   :width: 50 %
    :alt: Adjust Channels
 
 |
