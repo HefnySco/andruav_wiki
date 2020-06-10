@@ -37,3 +37,42 @@ Rules of Geo-Fence
 #. If there is one or more *green-fly* zone you need to fly into one of these areas.
 #. A red area can be inside a green area. You always need to be in the green but not in the red.
 
+|
+
+**The following are good fence example:**
+
+
+.. image:: ./images/good_fence1.png
+   :height: 400px
+   :alt: Good fence example 1
+
+
+.. image:: ./images/good_fence2.png
+   :height: 400px
+   :alt: Good fence example 2
+
+
+|
+
+**The following are bad fence example:**
+
+
+.. image:: ./images/bad_fence2.png
+   :height: 400px
+   :alt: Bad fence example 2
+
+
+.. image:: ./images/bad_fence3.png
+   :height: 400px
+   :alt: Bad fence example 2
+
+
+
+Also this is a bad situation as green areas are defined and drone is out of it.
+
+
+.. image:: ./images/bad_fence1.png
+   :height: 400px
+   :alt: Bad fence example 1
+
+
