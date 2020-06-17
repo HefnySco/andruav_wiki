@@ -14,11 +14,12 @@ Welcome to Andruav Project Website
    What is Andruav </what-is-andruav>
    Getting Started </andruav-getting-started>
    Andruav FPV </andruav-fpv>
+   Andruav GCS App </andruav-gcs>
    Andruav Web Client </andruav-web-client>
    Andruav Telemetry </andruav-telemetry>
    Andruav Advanced Features </andruav-advanced>
    Using Andruav with SITL </andruav-simulators>
-   
+     
    FAQ </andruav-faq> 
    Glossary </andruav-glossary> 
 
